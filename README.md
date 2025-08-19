@@ -1,1 +1,2 @@
-# TailwindCSS-Lotto
+# TailwindCSS-Lott
+lotto no responsive
